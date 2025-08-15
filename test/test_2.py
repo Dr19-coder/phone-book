@@ -1,2 +1,3 @@
 if __name__ == "__main__":
-    print("Hello, world2!")
+    print("Hello, world3!")
+    print("FUCK ME")
